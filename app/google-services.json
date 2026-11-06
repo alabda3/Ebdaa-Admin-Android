@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832201384748",
+    "project_id": "alabda3-a9cbc",
+    "storage_bucket": "alabda3-a9cbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832201384748:android:5e8562399665334afa8289",
+        "android_client_info": {
+          "package_name": "iq.ebdaa.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhxvSYCgt_j6HSXg29y4r0IkNuE6Pqloc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
