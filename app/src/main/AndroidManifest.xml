@@ -5,7 +5,8 @@
     <application
         android:allowBackup="false"
         android:label="لوحة تحكم الإبداع"
-        android:icon="@drawable/ic_ebdaa"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:usesCleartextTraffic="false"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity android:name=".MainActivity" android:exported="true">
